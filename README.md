@@ -9,4 +9,4 @@ I've been practicing Parkour since 2007, I enjoy editing the videos of my jumps 
 - 🔭  I’m currently working on **AllSpots**
 - ⚙️  I use daily: `.ts`, `.tsx` and sometimes `.php`
 - 📫  Reach me: [twitter.com/rafmst](https://twitter.com/rafmst)
-- ⚡  Fun fact: I have a cat named Mowgli 🐱
+- 🐱 I have a cat named Mowgli
