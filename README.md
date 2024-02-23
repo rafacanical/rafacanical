@@ -1,5 +1,5 @@
-### Hey there, I'm Rafael! 👋
+### Hey there, I'm Rafa! 👋
 
-I'm a fullstack developer from Portugal living in Norway. I've been coding professionally since 2014. At work, I mainly develop PHP projects with Symfony framework, and most recently a React Native(Typescript) app with over 80 000 users. I have deep knowledge in the PHP ecosystem and Javascript too. I'm really passionate about **Typescript** and **PHP** and thats what I use outside of work.
+I'm a fullstack developer from Portugal living in Norway. I've been coding professionally since 2014. At work, I mainly develop a React Native app qith more then 200 000 users, from time to time I touch the PHP backend code. I'm really passionate about **Typescript** and **Go** and thats what I use outside of work.
 
-If you want to contact me, please use any of my social networks.
+[X](https://x.com/rafacanical) • [Threads](https://www.threads.net/@rafacanical)
